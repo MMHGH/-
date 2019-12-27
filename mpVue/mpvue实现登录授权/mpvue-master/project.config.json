@@ -1,0 +1,110 @@
+{
+	"description": "项目配置文件。",
+	"setting": {
+		"urlCheck": true,
+		"es6": true,
+		"postcss": true,
+		"minified": true,
+		"newFeature": true,
+		"autoAudits": false
+	},
+	"miniprogramRoot": "dist/",
+	"compileType": "miniprogram",
+	"appid": "wxde95d6f172b45ad6",
+	"projectname": "1215",
+	"libVersion": "2.4.2",
+	"condition": {
+		"search": {
+			"current": -1,
+			"list": []
+		},
+		"conversation": {
+			"current": -1,
+			"list": []
+		},
+		"plugin": {
+			"current": -1,
+			"list": []
+		},
+		"game": {
+			"currentL": -1,
+			"list": []
+		},
+		"miniprogram": {
+			"current": 9,
+			"list": [
+				{
+					"id": 0,
+					"name": "web普通分享",
+					"pathName": "pages/share/main",
+					"query": "scene=41334",
+					"scene": "1047"
+				},
+				{
+					"id": 1,
+					"name": "web个性化分享横版",
+					"pathName": "pages/share/main",
+					"query": "scene=1227287241399",
+					"scene": "1047"
+				},
+				{
+					"id": 2,
+					"name": "uwp横版普通分享",
+					"pathName": "pages/share/main",
+					"query": "vid=f8c9a114-41b9-43ed-8e4b-cb0835c3c138",
+					"scene": "1036",
+					"referrerInfo": {}
+				},
+				{
+					"id": -1,
+					"name": "web竖版自定义分享",
+					"pathName": "pages/share/main",
+					"query": "scene=1041756541538",
+					"scene": "1047"
+				},
+				{
+					"id": 4,
+					"name": "web横版自定义",
+					"pathName": "pages/share/main",
+					"query": "scene=1056875141538",
+					"scene": "1047"
+				},
+				{
+					"id": -1,
+					"name": "web个性化分享横版自定义背景和logo、slogan",
+					"pathName": "pages/share/main",
+					"query": "scene=1227502741399",
+					"scene": "1047"
+				},
+				{
+					"id": -1,
+					"name": "web个性化分享横版显示Logo但未上传",
+					"pathName": "pages/share/main",
+					"query": "scene=1227747241399",
+					"scene": "1047"
+				},
+				{
+					"id": -1,
+					"name": "app竖版自定义",
+					"pathName": "pages/share/main",
+					"query": "vid=14158122143917"
+				},
+				{
+					"id": -1,
+					"name": "app分享模板",
+					"pathName": "pages/share/main",
+					"query": "vid=74c1be0d-84d5-4d5d-b878-6eacaf98c7d2&type=8",
+					"scene": "1036",
+					"referrerInfo": {}
+				},
+				{
+					"id": -1,
+					"name": "web模板分享",
+					"pathName": "pages/share/main",
+					"query": "scene=8,2c91765",
+					"scene": "1047"
+				}
+			]
+		}
+	}
+}

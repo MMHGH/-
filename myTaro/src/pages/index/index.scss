@@ -1,0 +1,13 @@
+.main{
+    .active{
+        color:blue;
+    }
+    &-title{
+        display: flex;
+        justify-content: center;
+    }
+    &-list{
+        text-align: center;
+        color:red;
+    }
+}

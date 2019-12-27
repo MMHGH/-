@@ -1,0 +1,18 @@
+{
+    "pages": [
+        "pages/index/main",
+        "pages/salesman/main",
+        "pages/investman/main",
+        "pages/apply/main",
+        "pages/formshow/main",
+        "pages/about/main",
+        "pages/client/main",
+        "pages/joint/main"
+  ],
+    "window": {
+        "backgroundTextStyle": "light",
+        "navigationBarBackgroundColor": "#14a1fd",
+        "navigationBarTitleText": "双盈信息科技",
+        "navigationBarTextStyle": "#fff"
+    }
+}

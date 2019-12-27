@@ -1,0 +1,1 @@
+<view><text>{{"当前所在页面"+page}}</text><view class="button-sp-area"><button type="primary" plain="true" size="mini">返 回</button></view></view>

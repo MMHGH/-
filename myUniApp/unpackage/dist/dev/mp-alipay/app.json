@@ -1,0 +1,34 @@
+{
+  "pages": [
+    "pages/index/index",
+    "pages/list/list",
+    "pages/list/detail/detail",
+    "pages/tips/tips"
+  ],
+  "subPackages": [],
+  "window": {
+    "defaultTitle": "全局页面标题",
+    "titleBarColor": "#f39a05",
+    "backgroundColor": ""
+  },
+  "tabBar": {
+    "textColor": "#000000",
+    "selectedColor": "#961325",
+    "backgroundColor": "#f39a05",
+    "items": [
+      {
+        "pagePath": "pages/index/index",
+        "name": "首页",
+        "icon": "static/image/tab01.png",
+        "activeIcon": "static/image/tab01.png"
+      },
+      {
+        "pagePath": "pages/list/list",
+        "name": "列表",
+        "icon": "static/image/tab02.png",
+        "activeIcon": "static/image/tab02.png"
+      }
+    ]
+  },
+  "usingComponents": {}
+}

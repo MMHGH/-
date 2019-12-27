@@ -1,0 +1,7 @@
+{
+  "navigationBarTitleText": "列表页面",
+  "bounce": "none",
+  "usingComponents": {
+    "mescroll-uni": "/node-modules/mescroll-uni/mescroll-uni"
+  }
+}

@@ -1,0 +1,6 @@
+{
+  "defaultTitle": "列表页面",
+  "usingComponents": {
+    "mescroll-uni": "/node-modules/mescroll-uni/mescroll-uni"
+  }
+}

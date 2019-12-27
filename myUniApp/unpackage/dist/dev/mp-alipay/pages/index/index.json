@@ -1,0 +1,9 @@
+{
+  "defaultTitle": "我的主页",
+  "titleBarColor": "#f39a05",
+  "usingComponents": {
+    "toast": "/components/toast",
+    "uni-grid": "/components/uni-grid/uni-grid",
+    "uni-grid-item": "/components/uni-grid-item/uni-grid-item"
+  }
+}
